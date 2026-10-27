@@ -71,6 +71,8 @@ Alternative emulators are available for selected systems.
 5. Hold **R** while launching a game to open the Homebrew Menu.
 6. Launch **BetterArch**.
 
+any issues please contact me on  **Discord:** [Better](https://discord.gg/q4qknMESsr)
+
 ### Game folders
 
 | System | Folder | File types |
