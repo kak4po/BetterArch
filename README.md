@@ -17,7 +17,10 @@
 </p>
 
 <p align="center">
-  <a href="../../releases/latest"><b>Download BetterArch</b></a>
+  <a href="../../releases/latest"><b>Download</b></a>
+  <br><br>
+  💬 <strong>Join the community:</strong>
+  <a href="https://discord.gg/q4qknMESsr">Better Discord</a>
 </p>
 
 ---
@@ -71,7 +74,7 @@ Alternative emulators are available for selected systems.
 5. Hold **R** while launching a game to open the Homebrew Menu.
 6. Launch **BetterArch**.
 
-any issues please contact me on  **Discord:** [Better](https://discord.gg/q4qknMESsr)
+any issues please contact me on: [Discord](https://discord.gg/q4qknMESsr)
 
 ### Game folders
 
